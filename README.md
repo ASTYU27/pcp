@@ -50,4 +50,4 @@
 #### b. Sprawozdanie z wykonania scenariuszy testów:
 
 Raport w Excelu
-
+aaaa
